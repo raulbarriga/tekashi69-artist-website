@@ -106,7 +106,7 @@ header {
 }
 
 #media {
-  background-image: url("/img/bandana.jpg");
+  background-image: url("./img/bandana.jpg");
   background-size: cover;
   padding: 100px 0;
 
@@ -226,7 +226,7 @@ header {
   z-index: 4;
 
   .top-img {
-    background: url("/img/group.png");
+    background: url("./img/group.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
