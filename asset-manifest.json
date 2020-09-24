@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/tekashi69-artist-website/static/css/main.d367674d.chunk.css",
+    "main.js": "/tekashi69-artist-website/static/js/main.0284bc70.chunk.js",
+    "main.js.map": "/tekashi69-artist-website/static/js/main.0284bc70.chunk.js.map",
+    "runtime-main.js": "/tekashi69-artist-website/static/js/runtime-main.5cfe03b0.js",
+    "runtime-main.js.map": "/tekashi69-artist-website/static/js/runtime-main.5cfe03b0.js.map",
+    "static/js/2.db7be3a6.chunk.js": "/tekashi69-artist-website/static/js/2.db7be3a6.chunk.js",
+    "static/js/2.db7be3a6.chunk.js.map": "/tekashi69-artist-website/static/js/2.db7be3a6.chunk.js.map",
+    "index.html": "/tekashi69-artist-website/index.html",
+    "precache-manifest.f0fbddab3ce5ca3fc0fbae76d13aae4b.js": "/tekashi69-artist-website/precache-manifest.f0fbddab3ce5ca3fc0fbae76d13aae4b.js",
+    "service-worker.js": "/tekashi69-artist-website/service-worker.js",
+    "static/css/main.d367674d.chunk.css.map": "/tekashi69-artist-website/static/css/main.d367674d.chunk.css.map",
+    "static/js/2.db7be3a6.chunk.js.LICENSE.txt": "/tekashi69-artist-website/static/js/2.db7be3a6.chunk.js.LICENSE.txt",
+    "static/media/album.jpg": "/tekashi69-artist-website/static/media/album.4a670eb7.jpg",
+    "static/media/index.css": "/tekashi69-artist-website/static/media/tekashi.01162399.png",
+    "static/media/logo.png": "/tekashi69-artist-website/static/media/logo.451d7fc5.png",
+    "static/media/logo.svg": "/tekashi69-artist-website/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cfe03b0.js",
+    "static/js/2.db7be3a6.chunk.js",
+    "static/css/main.d367674d.chunk.css",
+    "static/js/main.0284bc70.chunk.js"
+  ]
+}
